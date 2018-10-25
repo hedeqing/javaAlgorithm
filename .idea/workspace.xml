@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d04467-749c-4f74-b547-999189fc6e8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bruteForceMethod/generatingSubset/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/bruteForceMethod/generatingSubset/demo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,27 +67,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
-          <entry key="md" value="6" />
+          <entry key="java" value="5" />
+          <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
-          <entry key="Markdown" value="3" />
+          <entry key="JAVA" value="5" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1850" />
-          <entry key="md" value="444" />
+          <entry key="java" value="2385" />
+          <entry key="md" value="469" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1850" />
-          <entry key="Markdown" value="423" />
+          <entry key="JAVA" value="2385" />
+          <entry key="Markdown" value="448" />
           <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
@@ -109,15 +111,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/bubbleSort/demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="32" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/generateAlignment/demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="332">
@@ -126,11 +119,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            <state relative-caret-position="304">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="171">
+                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/Backpack01/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -159,15 +175,6 @@
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/BF/demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1520">
-              <caret line="80" column="52" selection-start-line="80" selection-start-column="52" selection-end-line="80" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -240,6 +247,8 @@
         <option value="$PROJECT_DIR$/bruteForceMethod/readme.md" />
         <option value="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/readme.md" />
         <option value="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java" />
+        <option value="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/demo.java" />
+        <option value="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md" />
       </list>
     </option>
   </component>
@@ -278,6 +287,13 @@
               <item name="javaAlgorithm" type="462c0819:PsiDirectoryNode" />
               <item name="bruteForceMethod" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Backpack01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="bruteForceMethod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="generatingSubset" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -288,7 +304,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540461071113" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540466541792" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -307,13 +323,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo">
-    <configuration name="demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BF.demo" />
+  <component name="RunManager" selected="Application.demo (1)">
+    <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Backpack01.demo" />
       <module name="bruteForceMethod" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BF.*" />
+          <option name="PATTERN" value="Backpack01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +390,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.demo (2)" />
       <item itemvalue="Application.demo (3)" />
       <item itemvalue="Application.demo (4)" />
       <item itemvalue="Application.demo (5)" />
       <item itemvalue="Application.demo" />
+      <item itemvalue="Application.demo (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo (1)" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.demo (5)" />
         <item itemvalue="Application.demo (4)" />
         <item itemvalue="Application.demo (3)" />
-        <item itemvalue="Application.demo (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +432,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26407507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35886526" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35886526" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -624,8 +640,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="304">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/Backpack01/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="171">
+            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
