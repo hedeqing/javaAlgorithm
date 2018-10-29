@@ -120,3 +120,21 @@ TSP问题
                      60,000,000,000,000,000个可能解。
      一个50城市的TSP问题有大约1062个可能解，而一个行星上也只有1021升水。
      用蛮力法求解TSP问题，只能解决问题规模很小的实例。
+
+凸包问题
+
+    //凸包问题，在全局变量point[0..n-1]中存放n个点
+    //point[i]为结构体，point[i].x和point[i].y分别存放点的横、纵坐标值
+    //point[i].flag存放是否为极点的标志
+    void convexhull()
+    { for(i=0;i<n;++i)
+        for(j=i+1;j<n;++j)
+         {  a=point[j].y-point[i].y;  b=point[j].x-point[i].x;
+             c=(point[i].x*point[j].y)-(point[i].y*point[j].x);
+             sign1=0; sign2=0;  // sign1和sign2记录直线两边点的数量
+            for(k=0;k<n;k++)
+            {  if((k==j)||(k==i))  continue;
+               if((a*point[k].x+b*point[k].y)==c)    {sign1++; sign2++;}
+               if((a*point[k].x+b*point[k].y)>c)       sign1++;
+               if((a*point[k].x+b*point[k].y)<c)       sign2++;
+          }
