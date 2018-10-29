@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bruteForceMethod/bruteForceMethod.iml" filepath="$PROJECT_DIR$/bruteForceMethod/bruteForceMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" filepath="$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaAlgorithm.iml" filepath="$PROJECT_DIR$/javaAlgorithm.iml" />
     </modules>
   </component>

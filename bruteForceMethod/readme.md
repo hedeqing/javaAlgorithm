@@ -138,3 +138,9 @@ TSP问题
                if((a*point[k].x+b*point[k].y)>c)       sign1++;
                if((a*point[k].x+b*point[k].y)<c)       sign2++;
           }
+           if(((sign1==(n-2))||((sign2==(n-2)))
+              { point[i].flag=1;   //point[i].flag为1表示极点
+                 point[j].flag=1;
+               }
+          }
+    }
