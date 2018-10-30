@@ -11,8 +11,8 @@ public static void main(String[] args) {
 }
     public static final void mergeSort(int [] a){
         if(a.length>1){
-            int []left = getHalfArray(a,true);
-            int []right = getHalfArray(a,false);
+            int []right = getHalfArray(a,true);
+            int []left = getHalfArray(a,false);
 //            for(int i=0;i<right.length;i++){
 //                System.out.print(right[i]+" ");
 //            }
