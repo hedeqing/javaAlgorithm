@@ -41,3 +41,16 @@
          return modeval;
     }
 
+快排
+
+    void QuickSort(int r[ ], int first, int end)
+      {
+         if (first<end) {
+            pivot=Partition(r, first, end);
+              //问题分解，pivot是轴值在序列中的位置
+            QuickSort(r, first, pivot-1);
+              //递归地对左侧子序列进行快速排序
+            QuickSort(r, pivot+1, end);
+             //递归地对右侧子序列进行快速排序
+         }
+      }
