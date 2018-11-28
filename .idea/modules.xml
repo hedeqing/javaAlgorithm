@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bruteForceMethod/bruteForceMethod.iml" filepath="$PROJECT_DIR$/bruteForceMethod/bruteForceMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" filepath="$PROJECT_DIR$/divideAndConquer/divideAndConquer.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaAlgorithm.iml" filepath="$PROJECT_DIR$/javaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetCode/leetCode.iml" filepath="$PROJECT_DIR$/leetCode/leetCode.iml" />
     </modules>
   </component>
 </project>
