@@ -3,7 +3,7 @@ package AddTwoNumbers;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class Demo {
     public static void main(String[] args) {
         ListNode listNode1 = null;
         ListNode listNode2 = null;
@@ -18,6 +18,10 @@ public class Main {
         }
     }
 
+    /**
+     *
+     * @return
+     */
     public  static  ListNode init (){
             Scanner in  = new Scanner(System.in);
             ListNode head = null;// 头部，空表

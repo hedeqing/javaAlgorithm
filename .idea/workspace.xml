@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d04467-749c-4f74-b547-999189fc6e8a" name="Default Changelist" comment="updates">
+      <change afterPath="$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/AddTwoNumbers/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/AddTwoNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/AddTwoNumbers/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/AddTwoNumbers/Main$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetCode/AddTwoNumbers/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +61,7 @@
     <session id="485424927">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.15" value="1" />
@@ -67,40 +71,41 @@
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="2" />
-          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="45" />
-          <entry key="md" value="35" />
+          <entry key="java" value="49" />
+          <entry key="md" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="45" />
-          <entry key="Markdown" value="32" />
+          <entry key="JAVA" value="49" />
+          <entry key="Markdown" value="34" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12671" />
-          <entry key="md" value="1260" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="15530" />
+          <entry key="md" value="1398" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12671" />
-          <entry key="Markdown" value="1239" />
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="JAVA" value="15530" />
+          <entry key="Markdown" value="1377" />
+          <entry key="PLAIN_TEXT" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -112,31 +117,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/divideAndConquer/src/凸包/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/divideAndConquer/src/quickSort/Demo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-              <folding>
-                <marker date="1543563304262" expanded="true" signature="1499:1751" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -145,11 +129,43 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetCode/src/AddTwoNumbers/README.md">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <first_editor relative-caret-position="181">
+                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="391">
+                <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -231,11 +247,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bruteForceMethod/src/selectSort/demo.java" />
-        <option value="$PROJECT_DIR$/bruteForceMethod/src/bubbleSort/readme.md" />
-        <option value="$PROJECT_DIR$/bruteForceMethod/src/generateAlignment/readme.md" />
-        <option value="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/readme.md" />
-        <option value="$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/demo.java" />
         <option value="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/demo.java" />
         <option value="$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md" />
         <option value="$PROJECT_DIR$/bruteForceMethod/src/taskAssignment/readme.md" />
@@ -281,7 +292,12 @@
         <option value="$PROJECT_DIR$/divideAndConquer/src/凸包/Demo.java" />
         <option value="$PROJECT_DIR$/divideAndConquer/src/neareastPair/Demo.java" />
         <option value="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Test.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/README.md" />
         <option value="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/README.md" />
+        <option value="$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Demo.java" />
+        <option value="$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/Demo.java" />
       </list>
     </option>
   </component>
@@ -292,10 +308,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-15" />
-    <option name="y" value="125" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -305,7 +321,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -331,15 +346,30 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="AddTwoNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LongestSubstringWithoutRepeatingCharacters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MedianOfTwoSortedArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543640254738" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543758492391" />
     <property name="last_opened_file_path" value="D:/javaEE/App/App.ipr" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -364,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="凸包.Demo" />
       <module name="divideAndConquer" />
@@ -378,12 +408,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="凸包.Demo" />
-      <module name="bruteForceMethod" />
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringWithoutRepeatingCharacters.Demo" />
+      <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="凸包.*" />
+          <option name="PATTERN" value="LongestSubstringWithoutRepeatingCharacters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MedianOfTwoSortedArrays.Demo" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MedianOfTwoSortedArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers.Demo" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AddTwoNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,20 +473,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AddTwoNumbers.Main" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AddTwoNumbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddTwoNumbers.Test" />
       <module name="leetCode" />
       <extension name="coverage">
@@ -443,33 +486,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="凸包.Test" />
-      <module name="divideAndConquer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="凸包.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
       <item itemvalue="Application.Demo (1)" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.Demo (2)" />
+      <item itemvalue="Application.Demo (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Demo (3)" />
+        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -496,10 +526,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.28954422" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.29264393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,15 +538,15 @@
       <window_info id="Favorites" order="6" sideWeight="0.5010571" side_tool="true" weight="0.28150135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.32765958" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4886059" visible="true" weight="0.34751773" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49597856" weight="0.42269504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4886059" visible="true" weight="0.34744844" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49200428" weight="0.422367" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4953083" weight="0.38865247" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5113941" side_tool="true" weight="0.3716312" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5079957" side_tool="true" weight="0.422367" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49798927" weight="0.32624114" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49798927" weight="0.3257329" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
@@ -603,6 +633,54 @@
           <properties />
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -611,74 +689,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/selectSort/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/BF/readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/sequentialSearch/readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/Backpack01/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/generatingSubset/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="114">
-            <caret line="6" column="65" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/hamiltonianloop/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -723,17 +733,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/hundredsOfChickens/readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -827,7 +837,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bruteForceMethod/src/凸back/chart_test.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
@@ -838,6 +847,7 @@
           </second_editor>
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/leetCode/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -911,11 +921,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bruteForceMethod/readme.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="78">
@@ -924,6 +929,11 @@
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="69" column="34" lean-forward="true" selection-start-line="69" selection-start-column="34" selection-end-line="69" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1078,13 +1088,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Main.java">
+    <entry file="jar://D:/jdk/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3799">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/jdk/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="181">
+            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/LongestSubstringWithoutRepeatingCharacters/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/AddTwoNumbers/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetCode/src/MedianOfTwoSortedArrays/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
